@@ -16,6 +16,7 @@
 #   - @jbraeuer on github
 #   - Dag Stockstad <dag.stockstad@gmail.com>
 #   - @Andor on github
+#   - Captainkrtek on github <sbrichards@mit.edu>
 #
 # USAGE
 #
